@@ -1,0 +1,7 @@
+
+package fabricaImagem;
+
+
+class Imagem {
+    
+}
