@@ -14,8 +14,8 @@ import java.util.ArrayList;
 public class Exec_fly {
     public static void main(String[] args) {            
         ArrayList<Pedido> listaPedidos = new ArrayList();        
+        FlyweightStatusItem flyFacStatus = new FlyweightStatusItem();
         for(int i=0; i< 500000; i++){      
-            FlyweightStatusItem flyFacStatus = new FlyweightStatusItem();
             Pedido pedido = new Pedido();
             Item item1 = new Item();
             item1.setSttItem(flyFacStatus.getEstadoStatus(StatusItem.Estado.CARRINHO.toString()));
