@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package telefone_singeton;
+package SINGETON.telefone_singeton;
 
-import Controlador.ControladorTelefone;
+import SINGETON.Controlador.ControladorTelefone;
 
 /**
  *
