@@ -3,12 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/elmr/Documents/NetBeansProjects/ATIVIDADES_POO2/src/cadeia_responsabilidade/Cash100Handler.java</file>
-            <file>file:/C:/Users/elmr/Documents/NetBeansProjects/ATIVIDADES_POO2/src/cadeia_responsabilidade/Cash10Handler.java</file>
-            <file>file:/C:/Users/elmr/Documents/NetBeansProjects/ATIVIDADES_POO2/src/cadeia_responsabilidade/Cash50Handler.java</file>
-            <file>file:/C:/Users/elmr/Documents/NetBeansProjects/ATIVIDADES_POO2/src/cadeia_responsabilidade/Atm.java</file>
-            <file>file:/C:/Users/elmr/Documents/NetBeansProjects/ATIVIDADES_POO2/src/cadeia_responsabilidade/Cash20Handler.java</file>
-            <file>file:/C:/Users/elmr/Documents/NetBeansProjects/ATIVIDADES_POO2/src/cadeia_responsabilidade/CashHandler.java</file>
+            <file>file:/C:/Users/elmr/Documents/NetBeansProjects/ATIVIDADES_POO2/src/observer/Observer.java</file>
+            <file>file:/C:/Users/elmr/Documents/NetBeansProjects/ATIVIDADES_POO2/src/observer/CaixaEntradaGrupo.java</file>
+            <file>file:/C:/Users/elmr/Documents/NetBeansProjects/ATIVIDADES_POO2/src/observer/MembroEmail.java</file>
+            <file>file:/C:/Users/elmr/Documents/NetBeansProjects/ATIVIDADES_POO2/src/flyweight/Exec_fly.java</file>
+            <file>file:/C:/Users/elmr/Documents/NetBeansProjects/ATIVIDADES_POO2/src/observer/Observable.java</file>
+            <file>file:/C:/Users/elmr/Documents/NetBeansProjects/ATIVIDADES_POO2/src/observer/ObserverOnAction.java</file>
+            <file>file:/C:/Users/elmr/Documents/NetBeansProjects/ATIVIDADES_POO2/src/observer/MembroWhatsApp.java</file>
         </group>
     </open-files>
 </project-private>
